@@ -6,6 +6,7 @@ This repository is R&D work under process, details will be provided once tis wil
 
 ## Usage
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
+
 1: Clone repo
 ```
 git clone git@github.com:mailtoharshit/ng2Force.git
